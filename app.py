@@ -52,3 +52,5 @@ if st.button("Generate Weekly Plan"):
         )
 
         st.code(resp2['choices'][0]['message']['content'])
+
+
